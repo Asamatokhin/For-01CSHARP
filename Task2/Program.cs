@@ -1,4 +1,15 @@
-﻿int i1 = 5;
+﻿int a1 = 10;
+int a2 = 12;
+int a3 = 9;
+int a4 = 14;
+
+int sum4 = a1 + a2;
+int product5 = a3 * a4;
+int quotion3 = product5 / sum4;
+Console.WriteLine(quotion3);
+
+
+int i1 = 5;
 int i2 = 6;
 int sum = i1 + i2;
 Console.WriteLine(sum);
