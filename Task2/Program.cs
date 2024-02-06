@@ -35,3 +35,13 @@ Console.WriteLine(quotion);
 d1 = 6;
 double quotion2 = i1 / d1;
 Console.WriteLine(quotion2);
+
+
+//if(firstNumber > secondNumber)
+  //      {
+    //      Console.Writeline("первое число больше");
+      //  } else if(firstNumber < secondNumder){
+        //  Console.Writeline("второе число больше");
+        //} else{
+        //  Console.Writeline("числа равны");
+        //}
